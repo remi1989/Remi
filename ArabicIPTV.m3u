@@ -1,5 +1,161 @@
 #EXTM3U
 
+#EXTINF:-1, [COLOR yellow]Updated 31/05/15 @ 23:30 [/COLOR]  
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR green] --Arabic Live Tv--[/COLOR]  
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR red] --Links will go down. Please note that it will take time to update--[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR yellow]Please donate to husham.com for more content[/COLOR]
+http://www.youtube.com/user/hmemar22
+
+
+
+
+
+
+
+
+#EXTINF:-1,Bein 1 HD
+http://185.56.30.127:8082/TV4001
+#EXTINF:-1, Bein 1
+# rtmp://www1.iguide.to/iguide playpath=ktjbfse2ccof4r3 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31136&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+#EXTINF:-1,BeIN Sports 1 HD (FR)
+# http://195.154.227.38:1935/live/bein1frlsh/playlist.m3u8
+#EXTINF:-1,BeIN Sports 1 HD English
+http://ak-bein-us-en-stream.fubo.tv/UT-Origin/ngrp:BeInSports_EN_all/anis_sat.m3u8
+#EXTINF:-1,BeIN Sports 1 HD Spanish
+http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/anis_sat.m3u8
+
+
+
+#EXTINF:-1,Bein 2 HD
+http://185.56.30.127:8082/TV4002
+#EXTINF:-1, Bein 2
+rtmp://www1.iguide.to/iguide playpath=98tbjpci3aup6d9 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31137&autoplay=true token=#ed%h0#w18623jsda6523IDGD  timeout=5
+#EXTINF:-1,BeIN Sports 2 HD (FR)
+http://195.154.227.38:1935/live/bein2frlsh/playlist.m3u8 timeout=5
+
+#EXTINF:-1,Bein 3 HD
+http://185.56.30.127:8082/TV4003
+#EXTINF:-1, Bein 3 [COLOR red]link_down[/COLOR]
+rtmp://www1.iguide.to/iguide playpath=szz873nndknv7b7 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31082&autoplay=true token=#ed%h0#w18623jsda6523IDGD timeout=5
+#EXTINF:-1,BeIN SPORTS  2HD (Fr)
+http://185.56.30.127:8082/TV4017
+
+#EXTINF:-1,Bein 4 HD
+http://185.56.30.127:8082/TV4004
+#EXTINF:-1, Bein 4 [COLOR red]link_down[/COLOR]
+#
+#EXTINF:-1,Bein 5 HD
+http://185.56.30.127:8082/TV4005
+#EXTINF:-1, Bein 5 [COLOR red]link_down[/COLOR]
+rtmp://195.154.216.101:80/liverepeater/beinsd3 pageUrl=http://xxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC/token=#yw%tt#w@kku playpath=307609?302405?206276?pageUrlhttp pageUrl=http://goodcast.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ timeout=5
+#EXTINF:-1,Bein 6 HD
+http://185.56.30.127:8082/TV4006
+#EXTINF:-1, Bein 6 [COLOR red]link_down[/COLOR]
+rtmp://195.154.233.201:80/liverepeater/nbcsn pageUrl=http://xxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC/token=#yw%tt#w@kku playpath=306620?302406?206276?pageUrlhttp pageUrl=http://goodcast.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ timeout=5
+#EXTINF:-1,Bein 7 HD
+http://185.56.30.127:8082/TV4007
+#EXTINF:-1, Bein 7 [COLOR red]link_down[/COLOR]
+#
+#EXTINF:-1,Bein 8 HD
+http://185.56.30.127:8082/TV4008
+#EXTINF:-1, Bein 8[COLOR red]link_down[/COLOR]
+rtmp://195.154.233.201:80/liverepeater/nbcsn pageUrl=http://xxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC/token=#yw%tt#w@kku playpath=306620?302406?206276?pageUrlhttp pageUrl=http://goodcast.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ timeout=5
+
+#EXTINF:-1,Bein 9 HD
+http://185.56.30.127:8082/TV4009
+#EXTINF:-1, Bein 9[COLOR red]link_down[/COLOR]
+rtmp://195.154.253.203:80/liverepeater playpath=302409 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://goodcast.co.uk/stream.php?id=302409&width=650&height=450&stretching=uniform token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ timeout=5
+#EXTINF:-1,Bein 10 HD
+http://185.56.30.127:8082/TV4010
+#EXTINF:-1, Bein 10[COLOR red]link_down[/COLOR]
+rtmp://89.248.169.48/iguide playpath=zu6hgy66lch4ulf swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31061&autoplay=true token=#ed%h0#w18623jsda6523IDGD timeout=5
+#EXTINF:-1,Bein 11 HD
+http://185.56.30.127:8082/TV4011
+#EXTINF:-1, Bein 11[COLOR red]link_down[/COLOR]
+rtmp://www1.iguide.to/iguide playpath=58poe1eex4wu3s7 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31062&autoplay=true  token=#ed%h0#w18623jsda6523IDGD timeout=5
+#EXTINF:-1,Bein 12 HD
+http://185.56.30.127:8082/TV4012
+#EXTINF:-1, Bein 12[COLOR red]link_down[/COLOR]
+rtmp://195.154.232.181:80/liverepeater playpath=302412 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://goodcast.co.uk/stream.php?id=302412&width=650&height=450&stretching=uniform token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ timeout=5
+#EXTINF:-1,BeIN SPORTS  13HD  (FR)
+http://185.56.30.127:8082/TV4013
+#EXTINF:-1,BeIN SPORTS  14HD  (FR)
+http://185.56.30.127:8082/TV4014
+#EXTINF:-1,BeIN SPORTS  15HD  (FR)
+http://185.56.30.127:8082/TV4015
+#EXTINF:-1,BeIN SPORTS  1HD (FR)
+http://185.56.30.127:8082/TV4016
+
+#EXTINF:-1,MBC PRO SPORT 1
+http://185.56.30.127:8082/TV4133
+#EXTINF:-1,MBC PRO SPORT 2
+http://185.56.30.127:8082/TV4134
+#EXTINF:-1,MBC PRO SPORT 3
+http://185.56.30.127:8082/TV4135
+
+
+#EXTINF:-1,osn action
+http://esiptv.mine.nu/633/650
+#EXTINF:-1,osn افلام1
+http://esiptv.mine.nu/691/330
+#EXTINF:-1,osn action2
+http://esiptv.mine.nu/668/650
+#EXTINF:-1,osn افلام
+http://esiptv.mine.nu/689/650
+#EXTINF:-1,osn BoxOffice 1
+http://esiptv.mine.nu/662/650
+
+#EXTINF:-1,مصارعه osn
+http://esiptv.mine.nu/687/650
+#EXTINF:-1,osn Yahala
+http://esiptv.mine.nu/671/650
+#EXTINF:-1,osn Cinema 2
+http://esiptv.mine.nu/628/650
+#EXTINF:-1,osn افلام5
+http://esiptv.mine.nu/695/650
+#EXTINF:-1,osn BoxOffice 2
+http://esiptv.mine.nu/663/650
+#EXTINF:-1,osn sport
+http://esiptv.mine.nu/667/650
+#EXTINF:-1,osn Yahala Shabab
+http://esiptv.mine.nu/672/650
+#EXTINF:-1,osn Cinema 1
+http://esiptv.mine.nu/627/650
+#EXTINF:-1,osn Premier2
+http://esiptv.mine.nu/669/650
+#EXTINF:-1,osn Drama
+http://esiptv.mine.nu/673/650
+#EXTINF:-1,osn Premier
+http://esiptv.mine.nu/630/650
+#EXTINF:-1,osn On Demand
+http://esiptv.mine.nu/678/650
+#EXTINF:-1,osn Comedy
+http://esiptv.mine.nu/664/650
+#EXTINF:-1,osn DiscoverID
+http://esiptv.mine.nu/683/650
+#EXTINF:-1,osn NationalGeo
+http://esiptv.mine.nu/681/650
+#EXTINF:-1,osn Fan
+http://esiptv.mine.nu/661/650
+#EXTINF:-1,osn First
+http://esiptv.mine.nu/665/650
+#EXTINF:-1,osn Entertainment
+http://esiptv.mine.nu/684/650
+#EXTINF:-1,osn MusicNow
+http://esiptv.mine.nu/657/650
+#EXTINF:-1,osn MGM
+http://esiptv.mine.nu/679/650
+#EXTINF:-1,osn Festival
+http://esiptv.mine.nu/651/650
+#EXTINF:-1,osn JimJamKids
+http://esiptv.mine.nu/676/650
+#EXTINF:-1,osn Cinema1
+http://esiptv.mine.nu/627/650
 
 
 #EXTINF:-1, Dubai TV
@@ -22,8 +178,6 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp
 rtmp://91.140.238.7/rtmplive/rtpencoder/sportplus.sdp
 
 #EXTINF:-1,MBC 1
-http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mbc1
-#EXTINF:-1,MBC 1 (Link not stable )
 rtmp://web3.iptv-planet.com:1935/live playpath=Hi_mbc1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc1&width=600&height=400
 
 #EXTINF:-1,Mbc 2 - Linke 1
@@ -484,5 +638,152 @@ http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
 #EXTINF:-1,Iqraatv
 http://fl1.viastreaming.net:1935/iqraatv/livestream/BratuMarian.m3u8
 
+
+#EXTINF:-1, ===========Arabic Films=======================
+http://www.youtube.com/user/hmemar22
+#EXTINF:-1, ===========Arabic Films =======================
+http://www.youtube.com/user/hmemar22
+#EXTINF:-1, [COLOR yellow]Please donate to husham.com for more content[/COLOR]
+http://www.youtube.com/user/hmemar22
+#EXTINF:-1, [COLOR yellow]Even if its £1[/COLOR]
+http://www.youtube.com/user/hmemar22
+#EXTINF:-1, فيلم Djinn اﻹماراتي الرعب العربي الجن اونلاين 2014 كامل
+http://flv.alarab.net:8080//flv/85194.flv?start=0
+
+
+#EXTINF:-1,فيلم عنتر وبيسه كوميدي اجتماعي مصري اونلاين 2015
+http://flv.alarab.net:8080//flv/85444.flv?start=0
+
+#EXTINF:-1,فيلم المواطن برص كامل ديفيدي مصري اونلاين
+http://flv.alarab.net:8080//flv/85363.flv?start=0
+
+#EXTINF:-1, سوء تفاهم كامل تصوير سينما - كوميدي حركة اونلاين 2015
+http://flv.alarab.net:8080//flv/84844.flv?start=0
+#EXTINF:-1, فيلم خطة بديلة كامل تصوير سينما - دراما تشويق و إثارة اونلاين 2015
+http://flv.alarab.net:8080//flv/84843.flv?start=0
+#EXTINF:-1, فيلم يوم مالوش لازمة كامل ts cam تصوير سينما اون لاين 2015
+http://flv.alarab.net:8080//flv/84681.flv?start=0
+#EXTINF:-1, فيلم هز وسط البلد كامل بجودة ts cam تصوير سينما اون لاين 2015
+http://flv.alarab.net:8080//flv/84679.flv?start=0
+#EXTINF:-1, لفيلم اللبناني غدي 2015
+http://flv.alarab.net:8080//flv/84551.flv?start=0
+
+#EXTINF:-1,فيلم اسوار القمر كامل اون لاين 2015
+http://flv.alarab.net:8080//flv/84548.flv?start=0
+
+#EXTINF:-1, الفيلم المغربي الخونة اون لاين 2015
+http://flv.alarab.net:8080//flv/84539.flv?start=0
+
+#EXTINF:-1, فيلم ريجاتا كامل مشاهدة اون لاين 2015
+http://flv.alarab.net:8080//flv/84488.flv?start=0
+
+#EXTINF:-1, ريلر فيلم اسوار القمر مشاهدة اون لاين 2015
+http://flv.alarab.net:8080//flv/84208.flv?start=0
+
+#EXTINF:-1, فيلم_بتوقيت_القاهرة_مصري_اكشن_2015
+http://flv.alarab.net:8080//flv/84197.flv?start=0
+
+#EXTINF:-1, فيلم_القط_كامل_مشاهدة_اون_2015
+http://flv.alarab.net:8080//flv/84088.flv?start=0
+
+#EXTINF:-1, فيلم_المهرجان_the_festival_2014
+http://flv.alarab.net:8080//flv/83854.flv?start=0
+
+#EXTINF:-1, من الف الى باء - From A to B فيلم عربي مصري اماراتي مشترك دراما كوميدي اجتماعي بجودة سينما 2015
+http://flv.alarab.net:8080//flv/83809.flv?start=0
+
+
+#EXTINF:-1, فيلم_المكيدة_كامل_مصري_اكشن_2015
+http://flv.alarab.net:8080//flv/83710.flv?start=0
+
+
+#EXTINF:-1, فيلم_جرسونيرة_كامل_2013_بجودة_
+http://flv.alarab.net:8080//flv/83685.flv?start=0
+
+#EXTINF:-1, _فيلم_عمر_وسلوى_Omar_2014
+http://flv.alarab.net:8080//flv/83554.flv?start=0
+
+#EXTINF:-1, حماتي_بتحبني_فيلم_مصري_كوميدي_2014
+http://flv.alarab.net:8080//flv/83334.flv?start=0
+
+#EXTINF:-1, _نظرية_عمتي_فيلم_مصري_كوميدي_2014
+http://flv.alarab.net:8080//flv/83198.flv?start=0
+
+#EXTINF:-1, _فيلم_HIV_اتش_اي_في_
+http://flv.alarab.net:8080//flv/83196.flv?start=0
+
+#EXTINF:-1, -_فيلم_القشاش_مصري_اكشن_2014
+http://flv.alarab.net:8080//flv/83155.flv?start=0
+
+#EXTINF:-1, _فيلم_واحد_صعيدي_كوميدي_اجتماعي_2014
+http://flv.alarab.net:8080//flv/83056.flv?start=0
+
+#EXTINF:-1, حلاوة روح
+http://cdn.playwire.com/15448/video-20140808-1202144.mp4
+
+#EXTINF:-1, حلاوة روح
+http://flv.alarab.net:8080//flv/80106.flv?start=0
+
+
+#EXTINF:-1,flv 3oche_elbolbol
+http://flv.alarab.net:8080//flv/81232.flv
+#EXTINF:-1,flv 5otat_jimi
+http://flv.alarab.net:8080//flv/74722.flv
+#EXTINF:-1,flv 7alawat_rou7
+http://flv.alarab.net:8080//flv/80106.flv
+#EXTINF:-1,flv 7amati_bit7ibini
+http://flv.alarab.net:8080//flv/83334.flv
+#EXTINF:-1,flv 7olm_omr
+http://flv.alarab.net:8080//flv/76547.flv
+#EXTINF:-1,flv achita_lifat
+http://flv.alarab.net:8080//flv/75166.flv
+#EXTINF:-1,flv al_9achach
+http://flv.alarab.net:8080//flv/83155.flv
+#EXTINF:-1,flv al7ab_al3alamia_athalitha
+http://flv.alarab.net:8080//flv/80272.flv
+#EXTINF:-1,flv alharibatan
+http://flv.alarab.net:8080//flv/76509.flv
+#EXTINF:-1,flv aljazeera2
+http://flv.alarab.net:8080//flv/81800.flv
+#EXTINF:-1,flv almo3dia
+http://flv.alarab.net:8080//flv/82374.flv
+#EXTINF:-1,flv amwaj_9assira
+http://flv.alarab.net:8080//flv/79349.flv
+#EXTINF:-1,flv atarik_adairi
+http://flv.alarab.net:8080//flv/81569.flv
+#EXTINF:-1,flv bibi
+http://flv.alarab.net:8080//flv/76517.flv
+#EXTINF:-1,flv captin_hima
+http://flv.alarab.net:8080//flv/81153.flv
+#EXTINF:-1,flv elphil_ alazra9
+http://flv.alarab.net:8080//flv/80344.flv
+#EXTINF:-1,flv hojoum_montasaf_alil
+http://flv.alarab.net:8080//flv/81251.flv
+#EXTINF:-1,flv houjoum_montasaf_alil
+http://flv.alarab.net:8080//flv/76585.flv
+#EXTINF:-1,flv jawazat_miry
+http://flv.alarab.net:8080//flv/80472.flv
+#EXTINF:-1,flv kalam_jarayad
+http://flv.alarab.net:8080//flv/74953.flv
+#EXTINF:-1,flv lamoa5da
+http://flv.alarab.net:8080//flv/81304.flv
+#EXTINF:-1,flv made_in_egypt
+http://flv.alarab.net:8080//flv/79970.flv
+#EXTINF:-1,flv marati_wa_zawjati
+http://flv.alarab.net:8080//flv/80578.flv
+#EXTINF:-1,flv morjan_ahmed_morjan
+http://flv.alarab.net:8080//flv/81372.flv
+#EXTINF:-1,flv mot3ib_wa_chadia
+http://flv.alarab.net:8080//flv/74720.flv
+#EXTINF:-1,flv nazariat_3amiti
+http://flv.alarab.net:8080//flv/83198.flv
+#EXTINF:-1,flv salam_abou_o5to
+http://flv.alarab.net:8080//flv/80018.flv
+#EXTINF:-1,flv taxi_albalad_lebanon
+http://flv.alarab.net:8080//flv/76253.flv
+#EXTINF:-1,flv THE_DEALER
+http://flv.alarab.net:8080//flv/80603.flv
+#EXTINF:-1,flv villa69
+http://flv.alarab.net:8080//flv/79937.flv
 
 
