@@ -1,156 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 21/06/15 @ 16:19 [/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
-#EXTINF:-1, [COLOR green] --Arabic Live Tv--[/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
-#EXTINF:-1, [COLOR red] --Links will go down. Please note that it will take time to update--[/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
-#EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
-#EXTINF:-1, [COLOR yellow]Please donate to husham.com for more content[/COLOR]
-http://www.youtube.com/user/hmemar22
-
-
-
-
-
-
-
-
-#EXTINF:-1,Bein 1 HD
-http://176.53.21.99:8082/TV4001
-#EXTINF:-1,BeIN SPORTS  1HD (FR)
-http://176.53.21.99:8082/TV4016
-
-#EXTINF:-1,Bein 2 HD
-http://176.53.21.99:8082/TV4002
-#EXTINF:-1,BeIN SPORTS  2HD (Fr)
-http://176.53.21.99:8082/TV4017
-
-#EXTINF:-1,Bein 3 HD
-http://176.53.21.99:8082/TV4003
-#EXTINF:-1,Bein 4 HD
-http://176.53.21.99:8082/TV4004
-
-#EXTINF:-1,Bein 5 HD
-http://176.53.21.99:8082/TV4005
-
-#EXTINF:-1,Bein 6 HD
-http://176.53.21.99:8082/TV4006
-#EXTINF:-1,Bein 7 HD
-http://176.53.21.99:8082/TV4007
-#EXTINF:-1,Bein 8 HD
-http://176.53.21.99:8082/TV4008
-
-
-#EXTINF:-1,Bein 9 HD
-http://176.53.21.99:8082/TV4009
-
-#EXTINF:-1,Bein 10 HD
-http://176.53.21.99:8082/TV4010
-#EXTINF:-1,Bein 11 HD
-http://176.53.21.99:8082/TV4011
-#EXTINF:-1,Bein 12 HD
-http://176.53.21.99:8082/TV4012
-#EXTINF:-1,BeIN SPORTS  13HD  (FR)
-http://176.53.21.99:8082/TV4013
-#EXTINF:-1,BeIN SPORTS  14HD  (FR)
-http://176.53.21.99:8082/TV4014
-#EXTINF:-1,BeIN SPORTS  15HD  (FR)
-http://176.53.21.99:8082/TV4015
-
-
-#EXTINF:-1,MBC PRO SPORT 1
-http://176.53.21.99:8082/TV4133
-#EXTINF:-1,MBC PRO SPORT 2
-http://176.53.21.99:8082/TV4134
-#EXTINF:-1,MBC PRO SPORT 3
-http://176.53.21.99:8082/TV4135
-
-
-#EXTINF:-1,osn action
-http://esiptv.mine.nu/633/650
-#EXTINF:-1,osn افلام1
-http://esiptv.mine.nu/691/330
-#EXTINF:-1,osn action2
-http://esiptv.mine.nu/668/650
-#EXTINF:-1,osn افلام
-http://esiptv.mine.nu/689/650
-#EXTINF:-1,osn BoxOffice 1
-http://esiptv.mine.nu/662/650
-
-#EXTINF:-1,مصارعه osn
-http://esiptv.mine.nu/687/650
-#EXTINF:-1,osn Yahala
-http://esiptv.mine.nu/671/650
-#EXTINF:-1,osn Cinema 2
-http://esiptv.mine.nu/628/650
-#EXTINF:-1,osn افلام5
-http://esiptv.mine.nu/695/650
-#EXTINF:-1,osn BoxOffice 2
-http://esiptv.mine.nu/663/650
-#EXTINF:-1,osn sport
-http://esiptv.mine.nu/667/650
-#EXTINF:-1,osn Yahala Shabab
-http://esiptv.mine.nu/672/650
-#EXTINF:-1,osn Cinema 1
-http://esiptv.mine.nu/627/650
-#EXTINF:-1,osn Premier2
-http://esiptv.mine.nu/669/650
-#EXTINF:-1,osn Drama
-http://esiptv.mine.nu/673/650
-#EXTINF:-1,osn Premier
-http://esiptv.mine.nu/630/650
-#EXTINF:-1,osn On Demand
-http://esiptv.mine.nu/678/650
-#EXTINF:-1,osn Comedy
-http://esiptv.mine.nu/664/650
-#EXTINF:-1,osn DiscoverID
-http://esiptv.mine.nu/683/650
-#EXTINF:-1,osn NationalGeo
-http://esiptv.mine.nu/681/650
-#EXTINF:-1,osn Fan
-http://esiptv.mine.nu/661/650
-#EXTINF:-1,osn First
-http://esiptv.mine.nu/665/650
-#EXTINF:-1,osn Entertainment
-http://esiptv.mine.nu/684/650
-#EXTINF:-1,osn MusicNow
-http://esiptv.mine.nu/657/650
-#EXTINF:-1,osn MGM
-http://esiptv.mine.nu/679/650
-#EXTINF:-1,osn Festival
-http://esiptv.mine.nu/651/650
-#EXTINF:-1,osn JimJamKids
-http://esiptv.mine.nu/676/650
-#EXTINF:-1,osn Cinema1
-http://esiptv.mine.nu/627/650
-
-
 #EXTINF:-1, Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
 #EXTINF:-1, Dubai ONE
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
-#EXTINF:-1, Noor DubaiTV
-http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
 #EXTINF:-1, Sama Dubai
 http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/playlist.m3u8
-#EXTINF:-1, Dubai Racing
-http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/playlist.m3u8
-#EXTINF:-1, Dubai Sports
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
-
-
 #EXTINF:-1,Kuwait TV / KTV Sports Extra
 rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp
-#EXTINF:-1,KTV Sport Plus
-rtmp://91.140.238.7/rtmplive/rtpencoder/sportplus.sdp
 
 #EXTINF:-1,MBC 1
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mbc1
-#EXTINF:-1,MBC 1 (Link not stable )
-rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc1&width=600&height=400
 
 #EXTINF:-1,Mbc 2 - Linke 1
 http://63.237.48.3/ios/MBC2/MBC2.m3u8
@@ -195,16 +55,6 @@ rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcdrama swfUrl=http://iptv-pl
 #EXTINF:-1,MBC Bollywood
 rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcbw swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbcbw&width=600&height=400 
 
-#EXTINF:-1,art aflam 1
-rtmp://37.59.17.92:1935/live?idu=elelamy_65540608920/art_aflam_1
-#EXTINF:-1, ART Aflam 1
-rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=artaflam1&width=600&height=400 
-
-#EXTINF:-1,ART aflam 2
-rtmp://37.59.17.92:1935/live?idu=elelamy_65540608920/art_aflam_2
-#EXTINF:-1, ART Aflam 2
-rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=artaflam2&width=600&height=400 
-
 #EXTINF:-1,ART hekayat
 rtmp://37.59.17.92:1935/live?idu=elelamy_65540608920/art_hekayat
 #EXTINF:-1,ART Hakayat
@@ -227,12 +77,6 @@ rtmp://web.iptv-planet.com:1937/live2 playpath=cbc swfUrl=http://iptv-planet.com
 #EXTINF:-1,Fox Movies
 rtmp://web.iptv-planet.com:1937/live2 playpath=fm swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=fm&width=600&height=400
 
-#EXTINF:-1,Hanibal
-rtmp://web.iptv-planet.com:1937/live2 playpath=h swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=h&width=600&height=400
-
-#EXTINF:-1,iqraa
-rtmp://web.iptv-planet.com:1937/live2 playpath=iqraa swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=iqraa&width=600&height=400
-
 #EXTINF:-1,LBC
 rtmp://web.iptv-planet.com:1937/live2 playpath=lbc swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=lbc&width=600&height=400
 
@@ -242,9 +86,6 @@ rtmp://web.iptv-planet.com:1937/live2 playpath=cd swfUrl=http://iptv-planet.com/
 #EXTINF:-1,nessma
 rtmp://web.iptv-planet.com:1937/live2 playpath=n swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=n&width=600&height=400
 
-#EXTINF:-1,toyour ljana
-rtmp://web.iptv-planet.com:1937/live2 playpath=toyouraljanna swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=toyouraljanna&width=600&height=400
-
 #EXTINF:-1,Tunisia Nationale 1
 rtmp://web.iptv-planet.com:1937/live2 playpath=t1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=t1&width=600&height=400 
 
@@ -252,46 +93,19 @@ rtmp://web.iptv-planet.com:1937/live2 playpath=t1 swfUrl=http://iptv-planet.com/
 rtmp://web.iptv-planet.com:1937/live2 playpath=t2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=t2&width=600&height=400 
 
 
-#EXTINF:-1, ===========Visit Husham.com=======================
-http://www.youtube.com/user/hmemar22[COLOR red]link_down[/COLOR]
-#EXTINF:-1, ===========Visit Husham.com=======================
-http://www.youtube.com/user/hmemar22
 
-#EXTINF:-1,2M 
-http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
-#EXTINF:-1,Al Hayat 2
-http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/BratuMarian.m3u8
+
 #EXTINF:-1,Al Ikhbaria syria
 http://82.137.248.16:1935/Snews/SnewsLive3/BratuMarian.m3u8
-#EXTINF:-1,Al Kawthar
-http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/BratuMarian.m3u8?DVR
-#EXTINF:-1,Al Kout
-rtmp://66.23.237.233:1935/alkout/alkout
-#EXTINF:-1,Al Maaref
-http://almaareftv.com:1935/live/1/BratuMarian.m3u8
 
-#EXTINF:-1,Al sahraa2 - [COLOR red]link_down[/COLOR]
 #
-#EXTINF:-1,Al Sumaria (Iraq)
-http://livestreaming2.itworkscdn.net/sumarialive/smil:sumariamob.smil/playlist.m3u8
-#EXTINF:-1,قناة الديار
-http://188.247.93.26:1935/live/aldyar.stream_360p/playlist.m3u8
-#EXTINF:-1,Alqithara (VOD)
-http://upmv09-ntt-upmv.ustream.tv/0/1/58/58347/58347300/1_4365778_58347300.flv?e=1428405859&h=805ae55387a1382c3631c25a995eff49&tracking=8763ef_57_1_0_0
-#EXTINF:-1,Al yawm
-http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 #EXTINF:-1,Alarabiya
 http://livestream5.alarabiya.tv/i/live_1@141854/index_1_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,Albadawiyah
-http://94.127.209.149:8080/albadawiyah-800-hdsx/playlist.m3u8
-#EXTINF:-1,Albadawiyahtv
-http://94.127.209.149:8080/edhakx/playlist.m3u8?DVR
 #EXTINF:-1,Albaghdadia
 http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
 #EXTINF:-1,Albaghdadia 2
 http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
-#EXTINF:-1,Alfady TV
-rtmp://stream.truth-voice.net/FadyLive//FadyLive
+
 #EXTINF:-1,Aljazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 #EXTINF:-1,Aljazeera En
